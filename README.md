@@ -1,3 +1,4 @@
+# Project is abandoned for the forseeable future
 # Text Based Chess
 This is a Python 3 chess program with textual input and output.
 
